@@ -1,0 +1,21 @@
+{
+    "name": "Test PWA",
+    "short_name": "PWA",
+    "description": "Description of your PWA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+        {
+            "src": "img/small-icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "img/big-icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
